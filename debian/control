@@ -1,12 +1,12 @@
 Source: cutefish-wallpapers
 Section: devel
 Priority: optional
-Maintainer: CutefishOS <cutefishos@foxmail.com>
+Maintainer: CutefishOS <support@cutefishos.com>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules
 Standards-Version: 4.5.0
-Homepage: https://github.com/cutefishos/wallpapers
+Homepage: https://cutefishos.com
 
 Package: cutefish-wallpapers
 Architecture: any
