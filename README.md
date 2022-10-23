@@ -2,7 +2,7 @@
 
 CutefishOS's system wallpaper.
 
-## License
+## Source
 
 [default.jpg](https://unsplash.com/photos/H35_4lJCC48)
 
@@ -23,5 +23,7 @@ CutefishOS's system wallpaper.
 [wallpaper-8.jpg](https://unsplash.com/photos/ztiulja606U)
 
 [wallpaper-9.jpg](https://unsplash.com/photos/uPKJ2XrcfZQ)
+
+## License
 
 * [Unsplash License](https://unsplash.com/license)
