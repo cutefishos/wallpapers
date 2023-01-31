@@ -1,12 +1,12 @@
 Source: cutefish-wallpapers
 Section: devel
 Priority: optional
-Maintainer: CutefishOS <support@cutefishos.com>
+Maintainer: The Simple Linux DE Develop Group <simplelinux@latex.ga>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules
 Standards-Version: 4.5.0
-Homepage: https://cutefishos.com
+Homepage: https://github.com/Simple-Linux-DE
 
 Package: cutefish-wallpapers
 Architecture: any
