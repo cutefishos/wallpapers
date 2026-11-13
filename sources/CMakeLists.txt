@@ -13,6 +13,7 @@ set(BACKGROUNDS
 	wallpaper-8.jpg
 	wallpaper-9.jpg
 	wallpaper-10.jpg
+	wallpaper-11.jpg
 )
 
 install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/cutefishos)
